@@ -35,6 +35,10 @@ cd zwallet-react
 npm install
 ```
 
+````
+akun : backenddeveloper15@gmail.com
+pass : 12345678
+
 ## Screenshots
 
 <div align="center">
